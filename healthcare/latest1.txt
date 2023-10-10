@@ -1,0 +1,45 @@
+Nikita pati internship
+
+tomato leaf
+medical prescription prediction
+vehicle identification
+
+road acc pred 
+waste prediction
+
+
+Java internship certificate 
+
+java internship report
+python internship reportm& PPT
+
+BCA 
+
+
+
+[3:02 PM, 6/23/2023] +91 97418 48478: My Project Title : Online Doctor Appointment System
+[3:07 PM, 6/23/2023] +91 97418 48478: 1. In the Patient registration module it doesn't have the Password option to enter, Add Password option.
+
+2. In the Patient login module or Book Appointment  module system has Email and Contact option, Remove Contact option, in that place Add Password option.
+
+4. In the Book appointment module the patient has to enter App No the system does not provide App No, Make the system has to provide App No automatically.,
+
+5. After booking an appointment the patient does not receive any page that shows the Appointment booked successfully and the Appointment booked successfully Form it should have the details given below:
+         1. Hospital Logo and below Hospital     
+             Name, The Hospital Name is
+             "NewLife Hospital"    
+         2. Patient App No
+         3. Patient Name 
+         4. Date
+         5. Time
+         6. Dr Name
+
+6. In the Check appointment module it is not displaying App No, Make it displaying App No and it also has space in between columns, Remove the space.
+
+7. The name add doctor module change name has Admin, and move the add doctor module inside the Admin login module.
+
+7. Add another Check appointment module inside the Admin login module.
+
+8. Inside the Admin login module, the  Check appointment module has all these  options like Sl NO, App No, Patient Name, Mobile No, Email ID, Date, Time and Dr. Name.
+
+10. After we run the project on the Home page it does not have a Hospital Logo & Name, Add Hospital Logo & Name (Hospital name is "NewLife Hospital")
